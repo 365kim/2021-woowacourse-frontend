@@ -3,14 +3,14 @@
 ### 레벨 1 - 프로그래밍 기본
 - 9주 과정 (2021년 2월 2일  ~ 4월 2일)
 
-  |   프로젝트    |  1 단계 - _with a pair_  |  2 단계 - _by myself_ |   🌟  코드리뷰 🌟   |    리뷰어    |
-  | :---------- | :------------------ | :-------------: | :--------------: | :---------: |
+  |   프로젝트    |  페어  |  1 단계   |  2 단계  |  3 단계  |   🌟  코드리뷰 🌟   |    리뷰어    |
+  | :---------- | :------: | :------: | :-----: | :---: | :--------------: | :---------: |
   |||||||
-  | 간단 계산기   |  [PR](https://github.com/woowacourse/javascript-calculator/pull/6) with [@YUJO42](https://github.com/YUJO42) | - | [피드백](https://365kim.tistory.com/75) | [@eastjun](https://github.com/eastjun) [@devJang](https://github.com/devJang) |
-  | 자동차경주게임 | [PR](https://github.com/woowacourse/javascript-racingcar/pull/6) with [@YUJO42](https://github.com/YUJO42) | [PR](https://github.com/woowacourse/javascript-racingcar/pull/31) | [피드백](https://365kim.tistory.com/82) | [@ysm0622](https://github.com/ysm0622) | 
-  | 로또         |   |    | 피드백 |            |
-  | 유튜브API     |   |    | 피드백 |            |
-  | 지하철노선도   |   |    | 피드백 |            |
+  | 간단 계산기   | [@YUJO42](https://github.com/YUJO42) |  [PR](https://github.com/woowacourse/javascript-calculator/pull/6) | - | - | [피드백](https://365kim.tistory.com/75) | [@eastjun](https://github.com/eastjun) [@devJang](https://github.com/devJang) |
+  | 자동차경주게임 | [@YUJO42](https://github.com/YUJO42) | [PR](https://github.com/woowacourse/javascript-racingcar/pull/6) | [PR](https://github.com/woowacourse/javascript-racingcar/pull/31) | - | [피드백](https://365kim.tistory.com/82) | [@ysm0622](https://github.com/ysm0622) | 
+  | 로또         |[@SunYoungKwon](https://github.com/SunYoungKwon) |  [PR](https://github.com/woowacourse/javascript-lotto/pull/7) |   |  | 피드백 | [@Jbee](https://github.com/JaeYeopHan) |
+  | 유튜브API     |   | | |    | 피드백 |            |
+  | 지하철노선도   |   | | |    | 피드백 |            |
 
 - 과정 목표
   - 프론트엔드의 기본이 되는 HTML, CSS, JS에 대한 기본 문법을 익혀 프로그래밍을 한다.
