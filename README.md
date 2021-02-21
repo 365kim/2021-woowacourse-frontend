@@ -24,6 +24,7 @@
   - [JavaScript - 호출 스케줄링(setTimeout, setInterval, requestAnimationFrame)](https://365kim.tistory.com/72)
   - [JavaScript - 유용한 메서드(find, filter, every, some, reduce, repeat)](https://365kim.tistory.com/76)
   - [Javascript - 'this' 키워드로 객체에 접근하기](https://365kim.tistory.com/81)
+  - [상태관리(Stage Management)와 옵저버패턴(Observer Pattern)](https://365kim.tistory.com/89?category=456012)
   - [Git - 자주 사용하는 명령어 모음](https://365kim.tistory.com/78)
   
 <br/>
