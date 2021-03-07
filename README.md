@@ -8,9 +8,9 @@
   |||||||
   | 간단 계산기   | [@YUJO42](https://github.com/YUJO42) |  [PR](https://github.com/woowacourse/javascript-calculator/pull/6) | - | - | [피드백](https://365kim.tistory.com/75) | [@eastjun](https://github.com/eastjun) [@devJang](https://github.com/devJang) |
   | 자동차경주게임 | [@YUJO42](https://github.com/YUJO42) | [PR](https://github.com/woowacourse/javascript-racingcar/pull/6) | [PR](https://github.com/woowacourse/javascript-racingcar/pull/31) | - | [피드백](https://365kim.tistory.com/82) | [@ysm0622](https://github.com/ysm0622) | 
-  | 로또         |[@SunYoungKwon](https://github.com/SunYoungKwon) |  [PR](https://github.com/woowacourse/javascript-lotto/pull/34) | [PR](https://github.com/woowacourse/javascript-lotto/pull/7) | [PR](https://github.com/woowacourse/javascript-lotto/pull/62) | [피드백](https://365kim.tistory.com/84) | [@Jbee](https://github.com/JaeYeopHan) |
-  | 유튜브API     |   | | |    | 피드백 |            |
-  | 지하철노선도   |   | | |    | 피드백 |            |
+  | 로또         |[@SunYoungKwon](https://github.com/SunYoungKwon) | [PR](https://github.com/woowacourse/javascript-lotto/pull/34) | [PR](https://github.com/woowacourse/javascript-lotto/pull/7) | [PR](https://github.com/woowacourse/javascript-lotto/pull/62) | [피드백](https://365kim.tistory.com/84) | [@Jbee](https://github.com/JaeYeopHan) |
+  | 유튜브API     | [@dudtjr913](https://github.com/dudtjr913) | [PR](https://github.com/woowacourse/javascript-youtube-classroom/pull/11) | |    | 피드백 | [@wow9144](https://github.com/wow9144)  |
+  | 지하철노선도   |   | | |    | 피드백 | |
 
 - 과정 목표
   - 프론트엔드의 기본이 되는 HTML, CSS, JS에 대한 기본 문법을 익혀 프로그래밍을 한다.
@@ -24,8 +24,9 @@
   - [JavaScript - 호출 스케줄링(setTimeout, setInterval, requestAnimationFrame)](https://365kim.tistory.com/72)
   - [JavaScript - 유용한 메서드(find, filter, every, some, reduce, repeat)](https://365kim.tistory.com/76)
   - [Javascript - 'this' 키워드로 객체에 접근하기](https://365kim.tistory.com/81)
-  - [상태관리(Stage Management)와 옵저버패턴(Observer Pattern)](https://365kim.tistory.com/89?category=456012)
+  - [상태관리(Stage Management)와 옵저버패턴(Observer Pattern)](https://365kim.tistory.com/89)
   - [HTML \<form\> 태그 총정리 + \<input\>, \<button\>](https://365kim.tistory.com/64)
   - [Git - 자주 사용하는 명령어 모음](https://365kim.tistory.com/78)
+  - [쉽게 쓰인 유튜브 API 튜토리얼](https://365kim.tistory.com/93)
   
 <br/>
