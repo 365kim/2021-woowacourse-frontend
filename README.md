@@ -9,8 +9,8 @@
   | 간단 계산기   | [@YUJO42](https://github.com/YUJO42) |  [PR](https://github.com/woowacourse/javascript-calculator/pull/6) | - | - | [피드백](https://365kim.tistory.com/75) | [@eastjun](https://github.com/eastjun) [@devJang](https://github.com/devJang) |
   | 자동차경주게임 | [@YUJO42](https://github.com/YUJO42) | [PR](https://github.com/woowacourse/javascript-racingcar/pull/6) | [PR](https://github.com/woowacourse/javascript-racingcar/pull/31) | - | [피드백](https://365kim.tistory.com/82) | [@ysm0622](https://github.com/ysm0622) | 
   | 로또         |[@SunYoungKwon](https://github.com/SunYoungKwon) | [PR](https://github.com/woowacourse/javascript-lotto/pull/34) | [PR](https://github.com/woowacourse/javascript-lotto/pull/7) | [PR](https://github.com/woowacourse/javascript-lotto/pull/62) | [피드백](https://365kim.tistory.com/84) | [@Jbee](https://github.com/JaeYeopHan) |
-  | 유튜브API     | [@dudtjr913](https://github.com/dudtjr913) | [PR](https://github.com/woowacourse/javascript-youtube-classroom/pull/11) | [PR](https://github.com/woowacourse/javascript-youtube-classroom/pull/46) |    | [피드백](https://365kim.tistory.com/96) | [@wow9144](https://github.com/wow9144)  |
-  | 지하철노선도   | [@bigsaigon333](https://github.com/bigsaigon333) | [PR](https://github.com/woowacourse/javascript-subway/pull/12) | |    | 피드백 | [@HyeonaKwon](https://github.com/HyeonaKwon) |
+  | 유튜브API     | [@dudtjr913](https://github.com/dudtjr913) | [PR](https://github.com/woowacourse/javascript-youtube-classroom/pull/11) | [PR](https://github.com/woowacourse/javascript-youtube-classroom/pull/46) | [PR](https://github.com/woowacourse/javascript-youtube-classroom/pull/64) | [피드백](https://365kim.tistory.com/96) | [@wow9144](https://github.com/wow9144)  |
+  | 지하철노선도   | [@bigsaigon333](https://github.com/bigsaigon333) | [PR](https://github.com/woowacourse/javascript-subway/pull/12) | | - | 피드백 | [@HyeonaKwon](https://github.com/HyeonaKwon) |
 
 - 과정 목표
   - 프론트엔드의 기본이 되는 HTML, CSS, JS에 대한 기본 문법을 익혀 프로그래밍을 한다.
