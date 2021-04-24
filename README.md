@@ -40,7 +40,7 @@
   | :---------- | :------: | :------: | :-----: | :---: | :--------------: | :---------: |
   |||||||
   | 로또 | [@jum0](https://github.com/jum0) |  [PR](https://github.com/woowacourse/react-lotto/pull/8) | PR | - | [피드백 정리](https://365kim.tistory.com/115) | [@Jbee](https://github.com/JaeYeopHan) |
-  | 페이먼츠 |  |  |  |  |  |  | 
+  | 페이먼츠 | [@shinsehantan](https://github.com/shinsehantan) |  |  |  |  |  | 
   | 장바구니 |  |  |  |  |  |  | 
   | 지하철 노선도 |  |  |  |  |  |  | 
 
