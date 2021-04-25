@@ -26,6 +26,7 @@
   - [Javascript - 'this' 키워드로 객체에 접근하기](https://365kim.tistory.com/81)
   - [상태관리(Stage Management)와 옵저버패턴(Observer Pattern)](https://365kim.tistory.com/89)
   - [HTML \<form\> 태그 총정리 + \<input\>, \<button\>](https://365kim.tistory.com/64)
+  - [입력 폼(Form)에서 유의해야할 UI/UX 디자인 요소](https://365kim.tistory.com/91?category=456013)
   - [Git - 자주 사용하는 명령어 모음](https://365kim.tistory.com/78)
   - [쉽게 쓰인 유튜브 API 튜토리얼](https://365kim.tistory.com/93)
   - [웹팩(Webpack) 밑바닥부터 설정하기](https://365kim.tistory.com/35)
