@@ -40,8 +40,8 @@
   |   프로젝트    |  페어  |  1 단계   |  2 단계  |  3 단계  |   🌟  코드리뷰 🌟   |    리뷰어님    |
   | :---------- | :------: | :------: | :-----: | :---: | :--------------: | :---------: |
   |||||||
-  | 로또 | [@jum0](https://github.com/jum0) |  [PR](https://github.com/woowacourse/react-lotto/pull/8) | PR | - | [피드백 정리](https://365kim.tistory.com/115) | [@Jbee](https://github.com/JaeYeopHan) |
-  | 페이먼츠 | [@shinsehantan](https://github.com/shinsehantan) |  |  |  |  |  | 
+  | 로또 | [@jum0](https://github.com/jum0) | [PR](https://github.com/woowacourse/react-lotto/pull/8) | PR | - | [피드백 정리](https://365kim.tistory.com/115) | [@Jbee](https://github.com/JaeYeopHan) |
+  | 페이먼츠 | [@shinsehantan](https://github.com/shinsehantan) | [PR](https://github.com/woowacourse/react-payments/pull/15) |  |  |  |  | 
   | 장바구니 |  |  |  |  |  |  | 
   | 지하철 노선도 |  |  |  |  |  |  | 
 
