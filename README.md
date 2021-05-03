@@ -41,7 +41,7 @@
   | :---------- | :------: | :------: | :-----: | :---: | :--------------: | :---------: |
   |||||||
   | 로또 | [@jum0](https://github.com/jum0) | [PR](https://github.com/woowacourse/react-lotto/pull/8) | [PR](https://github.com/woowacourse/react-lotto/pull/58) | - | [피드백 정리](https://365kim.tistory.com/115) | [@Jbee](https://github.com/JaeYeopHan) |
-  | 페이먼츠 | [@shinsehantan](https://github.com/shinsehantan) | [PR](https://github.com/woowacourse/react-payments/pull/15) |  |  |  |  | 
+  | 페이먼츠 | [@shinsehantan](https://github.com/shinsehantan) | [PR](https://github.com/woowacourse/react-payments/pull/15) | PR | - | [피드백 정리](https://365kim.tistory.com/121) | [@wow9144](https://github.com/wow9144) | 
   | 장바구니 |  |  |  |  |  |  | 
   | 지하철 노선도 |  |  |  |  |  |  | 
 
