@@ -42,8 +42,8 @@
   |||||||
   | 로또 | [@jum0](https://github.com/jum0) | [PR](https://github.com/woowacourse/react-lotto/pull/8) | [PR](https://github.com/woowacourse/react-lotto/pull/58) | - | [피드백 정리](https://365kim.tistory.com/115) | [@Jbee](https://github.com/JaeYeopHan) |
   | 페이먼츠 | [@shinsehantan](https://github.com/shinsehantan) | [PR](https://github.com/woowacourse/react-payments/pull/15) | [PR](https://github.com/woowacourse/react-payments/pull/49) | - | [피드백 정리](https://365kim.tistory.com/121) | [@wow9144](https://github.com/wow9144) | 
-  | 장바구니 | [@0imbean0](https://github.com/0imbean0) | [PR](https://github.com/woowacourse/react-shopping-cart/pull/5) | [PR](https://github.com/woowacourse/react-shopping-cart/pull/54) | - | 피드백 정리 | [@VallistA](https://github.com/Vallista) | 
-  | 지하철 노선도 | [@devhyun637](https://github.com/devhyun637) | [PR](https://github.com/woowacourse/react-subway-map/pull/20) | [PR](https://github.com/woowacourse/react-subway-map/pull/38) | - | 피드백 정리 | [@ysm0622](https://github.com/ysm0622) | 
+  | 장바구니 | [@0imbean0](https://github.com/0imbean0) | [PR](https://github.com/woowacourse/react-shopping-cart/pull/5) | [PR](https://github.com/woowacourse/react-shopping-cart/pull/54) | - | [피드백 정리](https://365kim.tistory.com/129) | [@VallistA](https://github.com/Vallista) | 
+  | 지하철 노선도 | [@devhyun637](https://github.com/devhyun637) | [PR](https://github.com/woowacourse/react-subway-map/pull/20) | [PR](https://github.com/woowacourse/react-subway-map/pull/38) | - | [피드백 정리](https://365kim.tistory.com/131) | [@ysm0622](https://github.com/ysm0622) | 
 
 - 과정 목표
   - React 기반의 프론트엔드 프레임워크를 사용하여, 컴포넌트 기반의 웹어플리케이션을 제작한다.
