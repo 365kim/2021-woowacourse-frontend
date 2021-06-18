@@ -54,5 +54,11 @@
 - 관련 블로그 포스팅
   - [React - 공식문서로 시작하는 리액트 입문 1편](https://365kim.tistory.com/109)
   - [React - 공식문서로 시작하는 리액트 입문 2편](https://365kim.tistory.com/111)
+  - [React - 함수 컴포넌트를 위한 리액트 훅(hook)](https://365kim.tistory.com/118)
+  - [React - 타입 체크을 위한 PropTypes](https://365kim.tistory.com/122)
+  - [Redux - 리액트 앱에서 Redux로 상태관리 하기](https://365kim.tistory.com/123)
+  - [프론트엔드 테스트에 대한 얕은 고민](https://365kim.tistory.com/126)
+  - [협업을 위한 HTTP 기초](https://365kim.tistory.com/127)
+  - [우아한테크코스 - '성장'을 위한 선배 개발자님들의 조언](https://365kim.tistory.com/119)
   
 <br/>
