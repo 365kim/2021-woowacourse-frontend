@@ -78,6 +78,11 @@
   - [UI 특강 2탄 - 실무에 대하여](https://365kim.tistory.com/144)
   - [사용성 테스트(Usability Test)](https://365kim.tistory.com/138)
   - [순수(?) 리액트 앱에 webpack 설정하기 (without CRA)](https://365kim.tistory.com/147)
+- 관련 유튜브 영상
+  - [[프로젝트 1차 데모] 여기서 만나 - 서비스 최종 기획, 팀 문화 공유](https://www.youtube.com/watch?v=eNDTbh6q8h4)
+  - [[프로젝트 2차 데모] 여기서 만나 - 계획한 이슈 목록 및 완료 목록, 브랜치 전략, API 설계](https://www.youtube.com/watch?v=7vFGSX2K-nw)
+  - [[프로젝트 3차 데모] 여기서 만나 - 자동화 테스트 및 시맨틱 버저닝](https://www.youtube.com/watch?v=vzAw3ACZ_SA)
+  - [프로젝트 4차 데모] 여기서 만나 (업로드 예정)
 
 <br/>
 
