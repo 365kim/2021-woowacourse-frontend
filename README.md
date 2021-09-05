@@ -65,7 +65,7 @@
 
 ### 레벨 3 - 팀 프로젝트
 - 8주 과정 (2021년 6월 22일  ~ 8월 13일)
-  - [여기서만나 프로젝트](https://github.com/woowacourse-teams/2021-see-you-there)
+  - [**여기서만나 프로젝트**](https://github.com/woowacourse-teams/2021-see-you-there)
     - 프론트엔드: [@0imbean0](https://github.com/0imbean0), [@365kim](https://github.com/365kim)
     - 백엔드: [@hybeom0720](https://github.com/hybeom0720), [@daum7766](https://github.com/daum7766), [@RinSabbit](https://github.com/RinSabbit), [@choijy1705](https://github.com/choijy1705)
 
@@ -81,8 +81,8 @@
 - 관련 유튜브 영상
   - [[프로젝트 1차 데모] 여기서 만나 - 서비스 최종 기획, 팀 문화 공유](https://www.youtube.com/watch?v=eNDTbh6q8h4)
   - [[프로젝트 2차 데모] 여기서 만나 - 계획한 이슈 목록 및 완료 목록, 브랜치 전략, API 설계](https://www.youtube.com/watch?v=7vFGSX2K-nw)
-  - [[프로젝트 3차 데모] 여기서 만나 - 자동화 테스트 및 시맨틱 버저닝](https://www.youtube.com/watch?v=vzAw3ACZ_SA)
-  - [프로젝트 4차 데모] 여기서 만나 (업로드 예정)
+  - [[프로젝트 3차 데모] 여기서 만나 - 테스트 자동화 및 시맨틱 버저닝](https://www.youtube.com/watch?v=vzAw3ACZ_SA)
+  - [[프로젝트 4차 데모] 여기서 만나 - FE 성능 리포트 및 BE 정적분석 리포트](https://www.youtube.com/watch?v=bUScDb_M1B8)
 
 <br/>
 
